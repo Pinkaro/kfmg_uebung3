@@ -1,2 +1,2 @@
 repository1 data REP1
-a new line in REP2
+a better line in REP1
